@@ -41,4 +41,4 @@ fake_profile_detection/
 
 ## 👨‍💻 Developed By
 
-Navin Yadav
+Navin kumar yadav
