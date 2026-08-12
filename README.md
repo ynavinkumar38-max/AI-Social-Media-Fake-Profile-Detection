@@ -1,4 +1,4 @@
-# Fake Profile Detection System
+# Ai-Social-Media-Fake Profile Detection System
 
 ## 📌 Project Overview
 
